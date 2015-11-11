@@ -1,5 +1,5 @@
 === Plugin Central ===
-Contributors: freediver
+Contributors: mindshare, freediver
 Donate link: https://www.networkforgood.org/donation/MakeDonation.aspx?ORGID2=520781390
 Tags: admin, dashboard, widget, jquery, plugins, plugin, admin,manage, updates, update
 Requires at least: 2.5
